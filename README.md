@@ -15,7 +15,10 @@ $ cd micro1
 # Install dependencies
 $ npm install
 $ npm run build
+$ cd dist
+$ lg
 $ npx servor
+$ cd ..
 
 # Run the app
 $ npm start
